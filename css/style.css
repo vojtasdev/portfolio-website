@@ -73,7 +73,7 @@ nav {
   justify-content: center;
   text-align: center;
   margin-top: 10px;
-  left: 34%;
+  left: 32%;
   position: fixed;
   display: flex;
   backdrop-filter: blur(20px);
@@ -215,7 +215,7 @@ nav ul li a:hover::after {
   padding: 6rem 2rem 2rem;
   font-family: 'Mulish', sans-serif;
   background-color: var(--background-color);
-  height: 650px;
+  height: 700px;
   color: #fff;
 }
 
